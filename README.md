@@ -24,7 +24,7 @@ This repository contains an end-to-end test automation framework built using Pla
 
 
 **Setup steps**
-1] Clone the repository from Git: git clone "repo_url" 
+*1] Clone the repository from Git: git clone "repo_url" *
 2] Open the project in pycharm/vs code 
 3] create virtual environment: python -m venv venv
 4] Activate the virtual environment: venv\Scripts\activate
