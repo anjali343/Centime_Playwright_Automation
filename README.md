@@ -29,5 +29,5 @@ This repository contains an end-to-end test automation framework built using Pla
 
 #### Report generation
 - pytest --html=report.html
-- with all arguments and 1 worker: pytest --browser chromium --tracing on --html=NormalReports/report.html
-- with all arguments and 3 worker pytest -n 3 --browser chromium --html=ParallelRunReport/report.html
+- with all arguments and 1 worker: **pytest --browser chromium --tracing on --html=NormalReports/report.html**
+- with all arguments and 3 worker: **pytest -n 3 --browser chromium --html=ParallelRunReport/report.html**
