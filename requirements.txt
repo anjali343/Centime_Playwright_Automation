@@ -1,0 +1,12 @@
+pytest==9.0.2
+playwright==1.56.0
+pytest-bdd==8.1.0
+pytest-html==4.2.0
+gherkin-official==29.0.0
+openpyxl==3.1.5
+panda==0.3.1
+PyPDF2==3.0.1
+pytest-playwright==0.7.2
+pytest-xdist==3.8.0
+
+
